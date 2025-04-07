@@ -5,10 +5,10 @@
 A passionate frontend developer from India
 ## 🛠️ Technical Skills
 
-- **Languages:** JavaScript, Python, C++
-- **Web Development:** HTML5, CSS3, React.js, Node.js, Express.js
+- **Languages:** C,Java,TypeScript,JavaScript
+- **Web Development:** HTML5, CSS3, React.js,Nextjs
 - **Databases:** MongoDB, MySQL
-- **Tools & Platforms:** Git, GitHub, Vercel
+- **Tools & Platforms:** Git, GitHub
 
 ## 🌟 Achievements
 
