@@ -29,7 +29,7 @@ Here are some of the projects I've worked on:
 ## 📫 Let's Connect!
 
 - **LinkedIn:** [Anshu Kumar](https://www.linkedin.com/in/anshu-kumar-8b579a289/)
-- **Email:** [anshukumarbth1@example.com](mailto:anshukumarbth1@example.com)
+- **Email:** [anshukumarbth1@gamil.com](mailto:anshukumarbth1@gmail.com)
 
 Feel free to reach out for collaborations or just a friendly chat about technology and development!
 
