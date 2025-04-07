@@ -21,7 +21,7 @@ A passionate frontend developer from India
 - **CodeChef:** [anshukumarbth1](https://www.codechef.com/users/anshukumarbth1)
 - **LeetCode:** [gge4wv4qd1](https://leetcode.com/u/gge4wv4qd1/)
 
-- 
+  ##
 - **LinkedIn:** [Anshu Kumar](https://www.linkedin.com/in/anshu-kumar-8b579a289/)
 - **Email:** [anshukumarbth1@gamil.com](mailto:anshukumarbth1@gmail.com)
 
