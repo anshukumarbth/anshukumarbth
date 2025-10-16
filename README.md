@@ -14,7 +14,7 @@ I merge **Machine Learning**, **Prompt Engineering**, and **Automation** with mo
 - 🌱 Currently studying: **Cyber Security** and exploring **LangChain** & **RAG Pipelines**
 - 🤝 Open to collaborate on: **AI-integrated Web Apps, Chatbots & Automation Systems**
 - 💬 Ask me about: **React, Node.js, AI APIs, Automation & Prompt Engineering**
-- 📫 Reach me at: **anshu.dev@example.com**
+- 📫 Reach me at: **anshukumarbth1@gmail.com**
 - ⚡ Motto: *Code. Automate. Innovate.*
 
 ---
