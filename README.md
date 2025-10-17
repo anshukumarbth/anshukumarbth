@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Anshu Kumar  
 
-## 💡 AI Driven MERN Stack Developer | AI & Automation Solutions | Prompt Engineering Expert | Cyber Security Enthusiast  
+## 💡 Full Stack MERN Developer | AI & Automation Solutions | Prompt Engineering Expert | Cyber Security Enthusiast  
 ### #Code • Automate • Innovate 🚀  
 
 ---
 
 ## 🧠 About Me  
 
-I'm an **AI-Driven MERN Stack Developer** passionate about building **intelligent**, **automated**, and **secure** digital experiences.  
+I'm an **Full Stack MERN Developer** passionate about building **intelligent**, **automated**, and **secure** digital experiences.  
 I merge **Machine Learning**, **Prompt Engineering**, and **Automation** with modern web technologies to create **scalable**, **smart**, and **human-centered** applications.  
 
-- 🔭 Currently building: **AI-driven Productivity & Automation Tools**
+- 🔭 Currently building: **Productivity & Automation Tools**
 - 🌱 Currently studying: **Cyber Security** and exploring **LangChain** & **RAG Pipelines**
 - 🤝 Open to collaborate on: **AI-integrated Web Apps, Chatbots & Automation Systems**
 - 💬 Ask me about: **React, Node.js, AI APIs, Automation & Prompt Engineering**
