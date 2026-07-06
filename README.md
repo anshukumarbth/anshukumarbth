@@ -1,92 +1,115 @@
-# 👋 Hi, I'm Anshu Kumar  
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,4169E1&height=200&section=header&text=Anshu%20Kumar&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="Header" width="100%" />
+  
+  <p align="center">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2FjZnMyaW1qdWx0ZHU5d3Bva3B3M3lrcHVod2RpdTNudXhtbjIxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.gif" width="49%" alt="Developer GIF" />
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHo0NTR4c2lxZnpoc2lkdnZ5YnRjZWFoeGZ0eno2ZWtqNWpoZDN0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="49%" alt="Coding GIF" />
+  </p>
 
-## 💡 Full Stack MERN Developer | AI & Automation Solutions | Prompt Engineering Expert 
-### #Code • Automate • Innovate 🚀  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1000&color=79C0FF&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Developer;AI+Engineer+%26+Prompt+Engineering+Trainer;Open+Source+Mentor+%26+STEM+Trainer" alt="Typing SVG" style="font-size:30px"/>
 
----
+  <p align="center">
+    <strong>Crafting intelligent, scalable, and visually stunning digital experiences.</strong><br>
+    <em>Bridging the gap between AI innovation and robust software engineering.</em>
+  </p>
 
-## 🧠 About Me  
-
-I'm an **Full Stack MERN Developer** passionate about building **intelligent**, **automated**, and **secure** digital experiences.  
-I merge **Machine Learning**, **Prompt Engineering**, and **Automation** with modern web technologies to create **scalable**, **smart**, and **human-centered** applications.  
-
-- 🔭 Currently building: **Productivity & Automation Tools**
-- 🌱 Currently studying: **React Native**
-- 🤝 Open to collaborate on: **AI-integrated Web Apps, Chatbots & Automation Systems**
-- 💬 Ask me about: **React, Node.js, AI APIs, Automation & Prompt Engineering**
-- 📫 Reach me at: **anshukumarbth1@gmail.com**
-- ⚡ Motto: *Code. Automate. Innovate.*
-
----
-
-## 🛠️ Tech Stack  
-
-### 💻 Languages  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Frameworks & Libraries  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### 🧠 AI & Automation Tools  
-![LangChain](https://img.shields.io/badge/-LangChain-00A67E?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![n8n](https://img.shields.io/badge/-n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)
-![AutoGPT](https://img.shields.io/badge/-AutoGPT-FF5733?style=for-the-badge&logo=robotframework&logoColor=white)
-
-### 🗄️ Databases  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔧 Tools & Platforms  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  <p align="center">
+    <a href="https://anshukumar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>
+    <a href="mailto:anshukumarbth1@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/anshu-kumar-8b579a289/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.instagram.com/caffienencode/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://discordapp.com/users/anshukumar_38890"><img src="https://img.shields.io/badge/Discord-anshukumar__38890-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  </p>
+</div>
 
 ---
 
-## 📊 GitHub Analytics  
+## About Me
 
-| ![Anshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshukumarbth&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshukumarbth&layout=compact&theme=tokyonight) |
-| --- | --- |
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshukumarbth&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=anshukumarbth&theme=tokyonight&no-frame=true&margin-w=5)
-
----
-
-## 📈 Contribution Graph  
-[![Anshu’s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anshukumarbth&theme=tokyo-night)](https://github.com/anshukumarbth)
+- **Name:** Anshu Kumar
+- **Role:** Full Stack Software Developer
+- **Education:** B.Tech Information Technology
+- **Current Positions:**
+  - Software Developer & STEM Trainer
+  - Lead Website Developer
+  - Marketing Head at Adoxfusion
+  - Open Source Mentor
+  - Prompt Engineering Trainer
+- **Current Focus:** AI Applications, SaaS Products, Next.js, System Design, Agentic AI, Prompt Engineering
 
 ---
 
-## 🔗 Connect with Me  
+## Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshu-kumar-8b579a289/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://anshukumar.vercel.app/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshukumarbth1@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshukumarbth)
+<div align="center">
+  <br>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,java,next,react,tailwind,nodejs,express,nestjs,mongo,postgres,redis,docker,aws,kubernetes&theme=dark" alt="Skills" />
+  <br>
+</div>
 
 ---
 
-⭐ **From [Anshu Kumar](https://github.com/anshukumarbth)**  
-![Profile Views](https://komarev.com/ghpvc/?username=anshukumarbth&color=blue&style=flat-square)
+## GitHub Statistics
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=anshukumarbth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79C0FF&icon_color=79C0FF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshukumarbth&theme=tokyonight&hide_border=true&background=0D1117&ring=79C0FF&fire=79C0FF&currStreakLabel=79C0FF" alt="Streak Stats" width="48%" />
+  
+  <br><br>
+  
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anshukumarbth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79C0FF" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshukumarbth&theme=tokyonight" alt="Profile Details" width="48%" />
+  
+  <br><br>
+
+  <!-- Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshukumarbth/anshukumarbth/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshukumarbth/anshukumarbth/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anshukumarbth/anshukumarbth/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+---
+
+##  Professional Experience & Community
+
+**Software Developer & STEM Trainer**  
+*Designing curriculum and developing software tools to enhance STEM education.*
+
+**Lead Website Developer**  
+*Architecting and leading the development of high-performance web applications.*
+
+**Marketing Head @ Adoxfusion**  
+*Driving digital strategies and growth marketing campaigns.*
+
+**Open Source & Prompt Engineering Mentor**  
+*Guiding beginners in open-source, advanced Git workflows, code reviews, and maximizing LLM utility.*
+
+---
+
+## Achievements
+
+- **Leadership:** Led multiple development teams to successful product launches.
+- **Mentoring:** Successfully mentored over 100+ students in web development and AI.
+- **AI Development:** Shipped production-ready AI tools reducing manual workflows by 40%.
+- **Production Applications:** Built and scaled SaaS products serving thousands of users.
+- **Open Source:** Recognized contributor in several major open-source repositories.
+- **Digital Marketing:** Scaled user acquisition by 200% through targeted campaigns.
+
+---
+
+## Let's Connect!
+
+<div align="center">
+  <a href="https://anshukumar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/anshu-kumar-8b579a289/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:anshukumarbth1@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/anshukumarbth"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/caffienencode/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</div>
+
+<br>
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVwb3plZ2V5dmhjM2k1czk1cXJycXh0NnZtczV5bXQxNDJtOXhkdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/200.webp" alt="Profile Views" width="600px" />
+</div>
