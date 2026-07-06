@@ -3,7 +3,7 @@
   
   <p align="center">
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2FjZnMyaW1qdWx0ZHU5d3Bva3B3M3lrcHVod2RpdTNudXhtbjIxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.gif" width="49%" alt="Developer GIF" />
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHo0NTR4c2lxZnpoc2lkdnZ5YnRjZWFoeGZ0eno2ZWtqNWpoZDN0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="49%" alt="Coding GIF" />
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHo0NTR4c2lxZnpoc2lkdnZ5YnRjZWFoeGZ0eno2ZWtqNWpoZDN0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="49%" alt="Coding GIF" height="215px" />
   </p>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1000&color=79C0FF&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Developer;AI+Engineer+%26+Prompt+Engineering+Trainer;Open+Source+Mentor+%26+STEM+Trainer" alt="Typing SVG" style="font-size:30px"/>
@@ -53,7 +53,7 @@
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=anshukumarbth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79C0FF&icon_color=79C0FF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshukumarbth&theme=tokyonight&hide_border=true&background=0D1117&ring=79C0FF&fire=79C0FF&currStreakLabel=79C0FF" alt="Streak Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=anshukumarbth&theme=tokyonight&hide_border=true&background=0D1117&ring=79C0FF&fire=79C0FF&currStreakLabel=79C0FF" alt="Streak Stats" width="48%" />
   
   <br><br>
   
@@ -111,5 +111,10 @@
 
 <br>
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVwb3plZ2V5dmhjM2k1czk1cXJycXh0NnZtczV5bXQxNDJtOXhkdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/200.webp" alt="Profile Views" width="600px" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVwb3plZ2V5dmhjM2k1czk1cXJycXh0NnZtczV5bXQxNDJtOXhkdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/200.webp" alt="Profile Views" width="600px" height="200px" />
+</div>
+
+---
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,4169E1&height=200&section=footer&text=Thank%20You!&fontSize=50&fontAlignY=65&animation=fadeIn&fontColor=ffffff" alt="Footer" width="100%" />
 </div>
