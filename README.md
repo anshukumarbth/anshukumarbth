@@ -51,12 +51,7 @@
 
 ## GitHub Statistics
 
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=anshukumarbth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79C0FF&icon_color=79C0FF" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=anshukumarbth&theme=tokyonight&hide_border=true&background=0D1117&ring=79C0FF&fire=79C0FF&currStreakLabel=79C0FF" alt="Streak Stats" width="48%" />
-  
-  <br><br>
-  
+<div align="center">  
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anshukumarbth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79C0FF" alt="Top Languages" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshukumarbth&theme=tokyonight" alt="Profile Details" width="48%" />
   
